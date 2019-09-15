@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Litecoin integration/staging tree
 ================================
 
@@ -71,3 +72,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./litecoin-qt_test
 
+=======
+# Privcoin
+>>>>>>> 8357fdf7174c0e16b1b9214efa89a0b422a0d17a
